@@ -2,7 +2,7 @@
 var data = [
 	{
 		time: '2015-03-29',
-		header: 'Sample of header',
+		header: 'مرحلة تقديم الطلب',
 		body: [{
 			tag: 'h1',
 			content: "Lorem ipsum"
